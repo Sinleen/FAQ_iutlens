@@ -1,5 +1,8 @@
 # Foire aux Questions de l'IUT de Lens
 
+Projet réalisé en 8 heures en groupe de 5 personnes (utilisation de la méthode AGILE)
+Rôle attribué : Scrum master
+
 ### Les fonctionnalités
 
 - Système de login / register avec roles (Admin / User)
